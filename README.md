@@ -75,7 +75,7 @@ gdown https://drive.google.com/uc?id=1--rgHv5E4qMLeK_0kCODr2jhlCHeDo9b
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by **Deepak Saroj**  
-[GitHub](https://github.com/deepakkumarsaroj)
+Made with ❤️ by **Arpit Singh**  
+
 
 ---

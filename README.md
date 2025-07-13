@@ -33,7 +33,7 @@ Key functionalities:
 ├── requirements.txt            # Project dependencies
 ├── README.md                   # Project description
 ├── templates                   # Contains all html files
-└── .gitignore                  # Ignored files
+
 ```
 
 ---
